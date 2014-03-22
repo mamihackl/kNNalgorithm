@@ -1,0 +1,11 @@
+class_num=3 feat_num=32846
+Confusion matrix for q3new/test.vectors.txt:
+row is the truth, column is the system output
+
+		 talk.politics.guns talk.politics.misc talk.politics.mideast
+talk.politics.guns 40 32 28
+talk.politics.misc 19 61 20
+talk.politics.mideast 3 20 77
+
+q3new/test.vectors.txt accuracy: 0.593333333333
+

@@ -1,0 +1,11 @@
+class_num=3 feat_num=7187
+Confusion matrix for test2.vectors.txt:
+row is the truth, column is the system output
+
+		 talk.politics.guns talk.politics.misc talk.politics.mideast
+talk.politics.guns 81 17 2
+talk.politics.misc 17 78 5
+talk.politics.mideast 3 7 90
+
+test2.vectors.txt accuracy: 0.83
+

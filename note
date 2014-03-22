@@ -1,0 +1,48 @@
+LING572 HW4
+Nat Byington
+Mami Hackl
+4/Feb/2010
+
+
+Q2
+Table 1:
+
+k	E distance	Cosine function
+1	0.636666666667	0.72
+5	0.646666666667	0.69
+10	0.66		0.663333333333
+
+Q3
+Table 2:
+k       E distance      Cosine function
+1       0.63		0.82
+5       0.593333333333  0.813333333333
+10      0.593333333333  0.816666666667
+
+
+Q5 
+Table 4:
+p0          Feature Count   Test Accuracy
+baseline        32846           .72
+0.001           2392            .64
+0.01            3855            .61
+0.025           5125            .59667
+0.05            7187            .55
+0.1             8192            .56667
+
+
+Q6
+Table 5:
+p0          Test Accuracy
+baseline        .81667
+0.001           .8
+0.01            .81333
+0.025           .82333
+0.05            .83
+0.1             .8
+
+
+Q7
+
+Binary features give the best results. Chi_square feature filtering didn't help as much as we'd expected.
+
